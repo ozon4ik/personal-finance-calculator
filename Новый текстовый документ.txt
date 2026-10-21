@@ -1,0 +1,2 @@
+git clone https://github.com/ozon4ik/personal-finance-calculator.git
+cd personal-finance-calculator
