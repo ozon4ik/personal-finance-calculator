@@ -1,1 +1,2 @@
-git checkout -b feature/project-structure
+git checkout main
+git pull origin main
