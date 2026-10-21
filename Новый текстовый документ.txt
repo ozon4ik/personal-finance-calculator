@@ -1,2 +1,2 @@
-git checkout main
-git pull origin main
+git checkout -b develop
+git push origin develop
